@@ -5,7 +5,7 @@ bestell
 aktion
 bestaetig
 blog@
-booking@
+booking
 bordkarte
 boardingpass
 bot@
@@ -33,7 +33,7 @@ message
 news
 notification
 online@
-order@
+order
 promo@
 promotions
 presse
@@ -67,7 +67,7 @@ expedia
 uber.com
 lufthansa
 airbnb.com
-bahn.de
+bahn.
 aa.com
 hilton
 hankook
@@ -99,3 +99,12 @@ postmaster
 privacy
 soenkejacobs.de
 kanonenwiese.de
+benachrichtigung
+lotto
+mailmanager
+buhl.de
+tk.de
+sunexpress
+regionetz
+friends
+@email
